@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Ada.</h1>
-<h3 align="center">A 15 year old web dev from Cyprus.</h3>
+<h3 align="center">A 16 year old web dev from Cyprus.</h3>
 
 - I’m currently working on **Spotify Stat tihngy**
 
