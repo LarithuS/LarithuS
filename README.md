@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/adagutan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ada gutan" height="30" width="40" /></a>
 <a href="https://instagram.com/adagutan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adagutan_" height="30" width="40" /></a>
+<a href="https://codepen.io/LrthS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adagutan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
