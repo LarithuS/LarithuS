@@ -1,9 +1,7 @@
 <h1 align="center">Hello I'm Ada.</h1>
 <h3 align="center">A 16 year old web dev from Cyprus.</h3>
 
-- I’m currently working on **Spotify Stat tihngy**
-
-- I’m currently learning how to use **APIs**
+-No Specific goal rn, just doing stuff
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
