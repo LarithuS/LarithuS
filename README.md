@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Ada.</h1>
-<h3 align="center">A 16 year old web dev from Cyprus.</h3>
+<h3 align="center">A 17 year old web dev from Cyprus.</h3>
 
--No Specific goal rn, just doing stuff
+- E-Commerce website 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
